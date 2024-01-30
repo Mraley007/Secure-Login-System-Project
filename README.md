@@ -37,7 +37,7 @@ Form Validation: Includes basic validation for user input on registration and lo
 
 <p align="center">
 Launched in Python: <br/>
-<img src="https://i.imgur.com/QTXsz1m.png" height="80%" width="80%" alt="Example C2 Framework"/>
+<img src="https://i.imgur.com/QTXsz1m.png" height="80%" width="80%" alt="Example Login Framework"/>
 
 </p>
 
